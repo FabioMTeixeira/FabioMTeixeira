@@ -10,6 +10,7 @@
   <img align="center" alt="Fabio-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+  <img align="center" alt="Fabio-node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </div>
 
    ##
@@ -20,6 +21,6 @@
 </div>
 
 ## 🚀 Sobre mim
-Sou uma pessoa apaixonada por tecnologia e empolgada com essa nova experiência no mundo do Desenvolvimento Web Backend. E me encontro muito empolgado para aprender, evoluir e desenvolver cada vez mais projetos com javascript e banco relacionais.
+Sou uma pessoa apaixonada por tecnologia e empolgada com essa nova experiência no mundo do Desenvolvimento Web FrontEnd. E me encontro muito empolgado para aprender, evoluir e desenvolver cada vez mais projetos com javascript e banco relacionais.
 E quem sabe no futuro aprender novas linguagens?!
  
